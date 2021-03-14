@@ -116,6 +116,6 @@ Wisner, B., 2010. Climate change and cultural diversity. International Social Sc
 
 Wynes, S. and Nicholas, K.A., 2019. Climate science curricula in Canadian secondary schools focus on human warming, not scientific consensus, impacts or solutions. PLOS ONE, 14(7), p.e0218305.
 
-Yukon First Nations Curriculum Working Group, 2020. Yukon Grade 8-9 Cross-Curricular Unit: Cliamte Change. [pdf] Yukon. Available at: <http://<i></i>lss.yukonschools.ca/uploads/4/5/5/0/45508033/e1_integratedunit_climatechange_98232_proof2.pdf>.
+Yukon First Nations Curriculum Working Group, 2020. Yukon Grade 8-9 Cross-Curricular Unit: Cliamte Change. [pdf] Yukon. Available at: <ht<span>tp://<i></i>lss.yukonschools.ca/uploads/4/5/5/0/45508033/e1_integratedunit_climatechange_98232_proof2.pdf>.
 
 Yusoff, K. and Gabrys, J., 2011. Climate change and the imagination. WIREs Climate Change, 2(4), pp.516–534.
